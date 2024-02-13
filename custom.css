@@ -1,0 +1,90 @@
+p {
+    text-align: center;
+    font-size: large;
+}
+h1 {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+
+#Yes1 {
+    width: 150px;
+    height: 75px;
+    font-size: 40px;
+}
+#Yes2 {
+    width: 300px;
+    height: 150px;
+    font-size: 80px;
+}
+#Yes3 {
+    width: 400px;
+    height: 200px;
+    font-size: 106px;
+}
+#Yes4 {
+    width: 450px;
+    height: 225px;
+    font-size: 119px;
+}
+#Yes5 {
+    width: 475px;
+    height: 238px;
+    font-size: 125px;
+}
+#Yes6 {
+    width: 500px;
+    height: 250px;
+    font-size: 131px;
+}
+#Yes7 {
+    width: 510px;
+    height: 255px;
+    font-size: 133px;
+}
+#Yes8 {
+    width: 525px;
+    height: 262.5px;
+    font-size: 136px;
+}
+#Yes9 {
+    width: 530px;
+    height: 265px;
+    font-size: 137px;
+}
+#Yes10 {
+    width: 535px;
+    height: 267.5px;
+    font-size: 137px;
+}
+#Yes11 {
+    width: 550px;
+    height: 275px;
+    font-size: 140px;
+}
+#Yes12 {
+    width: 570px;
+    height: 285px;
+    font-size: 145px;
+}
+#Yes13 {
+    width: 575px;
+    height: 287.5px;
+    font-size: 145px;
+}
+#Yes14 {
+    width: 600px;
+    height: 300px;
+    font-size: 151px;
+}
+#Yes15 {
+    width: 630px;
+    height: 315px;
+    font-size: 158px;
+}
